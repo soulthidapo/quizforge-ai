@@ -1,0 +1,7 @@
+cat <<EOF > .gitignore
+.env
+__pycache__/
+.ipynb_checkpoints/
+venv/
+experiments/
+EOF
