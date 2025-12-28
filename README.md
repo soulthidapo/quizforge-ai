@@ -1,3 +1,4 @@
+SmartMCQ Generator
 
 ☁️ AWS EC2 Setup (Step-by-Step)
 1. Login to AWS Console: https://aws.amazon.com/console/
