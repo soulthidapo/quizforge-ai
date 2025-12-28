@@ -1,6 +1,6 @@
-SmartMCQ Generator
+# SmartMCQ Generator
 
-☁️ AWS EC2 Setup (Step-by-Step)
+## ☁️ AWS EC2 Setup (Step-by-Step)
 1. Login to AWS Console: https://aws.amazon.com/console/
 
 2. Create an EC2 Instance
@@ -72,7 +72,7 @@ and hit Enter.
 python3 -m streamlit run StreamlitAPP.py
 
 
-🌐 Access the App
+## 🌐 Access the App
 
 Open your browser:
 
